@@ -1,5 +1,5 @@
 #  Realtime Data Streaming 
-![image](https://github.com/dogukannulu/kafka_spark_structured_streaming/assets/91257958/2048d405-596c-4921-a938-dcad3d24899e)
+![image](https://i0.wp.com/i.morioh.com/200806/bf221e77.webp?resize=413%2C228&ssl=1)
 
 ## Introduction
 
