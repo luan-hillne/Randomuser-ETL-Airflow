@@ -1,0 +1,11 @@
+kafka-python==2.0.2
+requests==2.27.1
+json5==0.9.6
+pyspark==3.2.4
+apache-airflow==2.7.0
+cassandra-driver==3.28.0
+Flask-Limiter==3.5.0
+Flask-SQLAlchemy==2.5.1
+
+
+
